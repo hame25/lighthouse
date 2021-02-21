@@ -1,0 +1,21 @@
+{
+  "name": "lighthouseTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^0.13.4",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "lighthouse": "^7.0.0",
+    "puppeteer": "^7.1.0",
+    "request": "^2.88.2",
+    "util": "^0.12.3"
+  }
+}
