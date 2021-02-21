@@ -16,7 +16,8 @@ app.get('/', function (req, res) {
     {"fetchTime":"2021-02-21T20:10:47.528Z","firstContentfulPaint":5775.239},
     {"fetchTime":"2021-02-21T20:11:15.957Z","firstContentfulPaint":5755.207},
     {"fetchTime":"2021-02-21T20:12:15.382Z","firstContentfulPaint":6063.418},
-    {"fetchTime":"2021-02-21T20:14:38.852Z","firstContentfulPaint":4733.514}])
+    {"fetchTime":"2021-02-21T20:14:38.852Z","firstContentfulPaint":4733.514},
+    {"fetchTime":"2021-02-21T20:38:42.646Z","firstContentfulPaint":6311.279}])
 })
  
 app.listen(3000)
